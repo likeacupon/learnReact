@@ -1,0 +1,1 @@
+console.log('initial react remote res');
